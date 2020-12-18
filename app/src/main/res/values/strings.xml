@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginTask</string>
+    <string name="txt_sign_up">Sign up</string>
+    <string name="btn_submit">Submit</string>
+    <string name="txt_hint_email">Email</string>
+    <string name="txt_hint_password">Password</string>
+    <string name="txt_hint_conf_password">Confirm Password</string>
+    <string name="txt_dialog_message_title">Message</string>
+    <string name="txt_dialog_message">You are successfully signed up...  </string>
+    <string name="txt_dialog_yes">Yes</string>
+    <string name="txt_dialog_no">No</string>
+</resources>
